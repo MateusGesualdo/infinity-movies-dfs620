@@ -1,4 +1,10 @@
 h1{
     color:red;
     font-size:40px
+    display:small
+}
+
+span{
+    color:black;
+    font-size:20px
 }
