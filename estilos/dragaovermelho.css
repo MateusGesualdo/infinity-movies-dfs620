@@ -1,4 +1,9 @@
 h1{
     color:blue;
-    font-size:40px
+    font-size:40px;
+}
+
+p{
+    display:inline-block;
+    width: 300px;
 }
